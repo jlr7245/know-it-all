@@ -1,5 +1,5 @@
 {
-  "name": "know-it-all",
+  "name": "knowitall-jcopy",
   "version": "29.0.0",
   "description": "If you don't know it all, at least know what you don't know",
   "scripts": {
@@ -65,5 +65,6 @@
     "presets": [
       "latest"
     ]
-  }
+  },
+  "main": "index.js"
 }
